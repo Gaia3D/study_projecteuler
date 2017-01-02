@@ -1,0 +1,8 @@
+The prime factors of 13195 are 5, 7, 13 and 29.
+
+What is the largest prime factor of the number 600851475143 ?
+
+해석...
+13195를 소인수분해하면 5, 7, 13, 29 가 나온다.
+
+600851475143 이라는 숫자를 소인수분해하면 나오는 소인수중 가장 큰 수는 무엇인가?
